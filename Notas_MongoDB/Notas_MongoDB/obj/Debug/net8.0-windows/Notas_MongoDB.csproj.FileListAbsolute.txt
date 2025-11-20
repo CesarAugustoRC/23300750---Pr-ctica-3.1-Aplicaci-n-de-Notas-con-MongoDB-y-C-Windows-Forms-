@@ -1,0 +1,50 @@
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Notas_MongoDB.exe
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Notas_MongoDB.deps.json
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Notas_MongoDB.runtimeconfig.json
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Notas_MongoDB.dll
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Notas_MongoDB.pdb
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.Form1.resources
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.AssemblyInfo.cs
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_Mo.C23B9ED5.Up2Date
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.dll
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\refint\Notas_MongoDB.dll
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.pdb
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.genruntimeconfig.cache
+C:\Users\acer\Desktop\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\ref\Notas_MongoDB.dll
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Notas_MongoDB.exe
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Notas_MongoDB.deps.json
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Notas_MongoDB.runtimeconfig.json
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Notas_MongoDB.dll
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Notas_MongoDB.pdb
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.Form1.resources
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.AssemblyInfo.cs
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_Mo.C23B9ED5.Up2Date
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.dll
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\refint\Notas_MongoDB.dll
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.pdb
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\Notas_MongoDB.genruntimeconfig.cache
+C:\Users\acer\Desktop\Escuela\DB_El verde\Notas_MongoDB\Notas_MongoDB\obj\Debug\net8.0-windows\ref\Notas_MongoDB.dll
