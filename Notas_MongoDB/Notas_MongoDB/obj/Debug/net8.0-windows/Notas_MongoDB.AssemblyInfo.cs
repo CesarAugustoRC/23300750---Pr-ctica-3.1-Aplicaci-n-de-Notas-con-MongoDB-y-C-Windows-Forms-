@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Notas_MongoDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b29dd9644262af44feef18413a2e1cb4f6ea6c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Notas_MongoDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Notas_MongoDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

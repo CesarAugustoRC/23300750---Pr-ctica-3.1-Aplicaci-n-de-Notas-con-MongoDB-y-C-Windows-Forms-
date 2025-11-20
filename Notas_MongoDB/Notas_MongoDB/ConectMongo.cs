@@ -5,7 +5,7 @@ namespace Notas_MongoDB
     public static class ConectMongo
     {
         private static readonly string connectionString =
-            $"mongodb+srv://<db_user>:<db_password>@clusternotas.embegqi.mongodb.net/?appName=ClusterNotas\r\n";
+            $"mongodb+srv://<db_user>:<db_password>@clusternotas.embegqi.mongodb.net/?appName=ClusterNotas";
         // Ejemplo con usuario ya creado: mongodb+srv://a23300750_db_user:<db_password>@clusternotas.embegqi.mongodb.net/?appName=ClusterNotas
         private static readonly MongoClient client = new MongoClient(connectionString);
 
